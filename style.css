@@ -8,3 +8,8 @@ div{
     width: 50px;
     background-color: beige;
 }
+p{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+}
