@@ -12,4 +12,7 @@ p{
     position: relative;
     bottom: 40px;
     left: 60px;
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
 }
